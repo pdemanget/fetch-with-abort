@@ -1,0 +1,24 @@
+{
+  "name": "fetch-with-abort",
+  "version": "1.0.0",
+  "description": "Shim the fetch xith xhr and abort functionnality, using cancel promise",
+  "main": "fetchWithAbort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/pdemanget/fetch-with-abort"
+  },
+  "keywords": [
+    "ES6",
+    "fetch",
+    "xhr",
+    "abort"
+  ],
+  "author": "Philippe DEMANGET",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+  }
+}
